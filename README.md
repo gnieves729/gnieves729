@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<details id=0 open>
+  <summary><h2>Start</h2></summary>
+  
+  <h1> My name is Griffin </h1>
+  <p> I am young professional starting the journey of transitioning into a SE role.
+    </br>
+    I enjoy spending time with my family, my dog Lilly, playing video games, and collecting houseplants to name a few things.
+    </br>
+    I want to become the best wizard of coding I can be and am excited to see what this journey holds for me. </p>
 <!--
 **gnieves729/gnieves729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
